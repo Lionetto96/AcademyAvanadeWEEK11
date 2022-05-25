@@ -1,0 +1,13 @@
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\bin\Debug\netstandard2.0\GestioneOrdini_Mock.deps.json
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\bin\Debug\netstandard2.0\GestioneOrdini_Mock.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\bin\Debug\netstandard2.0\GestioneOrdini_Mock.pdb
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\bin\Debug\netstandard2.0\GestioneOrdini_CORE.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\bin\Debug\netstandard2.0\GestioneOrdini_CORE.pdb
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\obj\Debug\netstandard2.0\GestioneOrdini_Mock.csproj.AssemblyReference.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\obj\Debug\netstandard2.0\GestioneOrdini_Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\obj\Debug\netstandard2.0\GestioneOrdini_Mock.AssemblyInfoInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\obj\Debug\netstandard2.0\GestioneOrdini_Mock.AssemblyInfo.cs
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\obj\Debug\netstandard2.0\GestioneOrdini_Mock.csproj.CoreCompileInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\obj\Debug\netstandard2.0\GestioneOrdini_Mock.csproj.CopyComplete
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\obj\Debug\netstandard2.0\GestioneOrdini_Mock.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_Mock\obj\Debug\netstandard2.0\GestioneOrdini_Mock.pdb

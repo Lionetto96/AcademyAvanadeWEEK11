@@ -1,0 +1,16 @@
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\bin\Debug\netcoreapp3.1\GestioneOrdini_EF.deps.json
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\bin\Debug\netcoreapp3.1\GestioneOrdini_EF.runtimeconfig.json
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\bin\Debug\netcoreapp3.1\GestioneOrdini_EF.runtimeconfig.dev.json
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\bin\Debug\netcoreapp3.1\GestioneOrdini_EF.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\bin\Debug\netcoreapp3.1\GestioneOrdini_EF.pdb
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\bin\Debug\netcoreapp3.1\GestioneOrdini_CORE.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\bin\Debug\netcoreapp3.1\GestioneOrdini_CORE.pdb
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\obj\Debug\netcoreapp3.1\GestioneOrdini_EF.csproj.AssemblyReference.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\obj\Debug\netcoreapp3.1\GestioneOrdini_EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\obj\Debug\netcoreapp3.1\GestioneOrdini_EF.AssemblyInfoInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\obj\Debug\netcoreapp3.1\GestioneOrdini_EF.AssemblyInfo.cs
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\obj\Debug\netcoreapp3.1\GestioneOrdini_EF.csproj.CoreCompileInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\obj\Debug\netcoreapp3.1\GestioneOrdini_EF.csproj.CopyComplete
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\obj\Debug\netcoreapp3.1\GestioneOrdini_EF.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\obj\Debug\netcoreapp3.1\GestioneOrdini_EF.pdb
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_EF\obj\Debug\netcoreapp3.1\GestioneOrdini_EF.genruntimeconfig.cache

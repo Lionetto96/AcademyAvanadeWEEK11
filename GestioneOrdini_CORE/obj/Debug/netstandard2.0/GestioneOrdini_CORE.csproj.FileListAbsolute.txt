@@ -1,0 +1,10 @@
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_CORE\bin\Debug\netstandard2.0\GestioneOrdini_CORE.deps.json
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_CORE\bin\Debug\netstandard2.0\GestioneOrdini_CORE.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_CORE\bin\Debug\netstandard2.0\GestioneOrdini_CORE.pdb
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_CORE\obj\Debug\netstandard2.0\GestioneOrdini_CORE.csproj.AssemblyReference.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_CORE\obj\Debug\netstandard2.0\GestioneOrdini_CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_CORE\obj\Debug\netstandard2.0\GestioneOrdini_CORE.AssemblyInfoInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_CORE\obj\Debug\netstandard2.0\GestioneOrdini_CORE.AssemblyInfo.cs
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_CORE\obj\Debug\netstandard2.0\GestioneOrdini_CORE.csproj.CoreCompileInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_CORE\obj\Debug\netstandard2.0\GestioneOrdini_CORE.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\GestioneOrdini_CORE\obj\Debug\netstandard2.0\GestioneOrdini_CORE.pdb

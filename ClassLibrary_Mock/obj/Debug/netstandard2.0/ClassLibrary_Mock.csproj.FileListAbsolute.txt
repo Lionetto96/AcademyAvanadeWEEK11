@@ -1,0 +1,13 @@
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\bin\Debug\netstandard2.0\ClassLibrary_Mock.deps.json
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\bin\Debug\netstandard2.0\ClassLibrary_Mock.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\bin\Debug\netstandard2.0\ClassLibrary_Mock.pdb
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\bin\Debug\netstandard2.0\ClassLibrary_Core.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\bin\Debug\netstandard2.0\ClassLibrary_Core.pdb
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\obj\Debug\netstandard2.0\ClassLibrary_Mock.csproj.AssemblyReference.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\obj\Debug\netstandard2.0\ClassLibrary_Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\obj\Debug\netstandard2.0\ClassLibrary_Mock.AssemblyInfoInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\obj\Debug\netstandard2.0\ClassLibrary_Mock.AssemblyInfo.cs
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\obj\Debug\netstandard2.0\ClassLibrary_Mock.csproj.CoreCompileInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\obj\Debug\netstandard2.0\ClassLibrary_Mock.csproj.CopyComplete
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\obj\Debug\netstandard2.0\ClassLibrary_Mock.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Mock\obj\Debug\netstandard2.0\ClassLibrary_Mock.pdb

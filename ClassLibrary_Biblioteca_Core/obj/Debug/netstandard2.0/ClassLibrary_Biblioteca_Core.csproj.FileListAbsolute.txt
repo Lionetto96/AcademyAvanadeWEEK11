@@ -1,0 +1,10 @@
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Biblioteca_Core\bin\Debug\netstandard2.0\ClassLibrary_Biblioteca_Core.deps.json
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Biblioteca_Core\bin\Debug\netstandard2.0\ClassLibrary_Biblioteca_Core.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Biblioteca_Core\bin\Debug\netstandard2.0\ClassLibrary_Biblioteca_Core.pdb
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Biblioteca_Core\obj\Debug\netstandard2.0\ClassLibrary_Biblioteca_Core.csproj.AssemblyReference.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Biblioteca_Core\obj\Debug\netstandard2.0\ClassLibrary_Biblioteca_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Biblioteca_Core\obj\Debug\netstandard2.0\ClassLibrary_Biblioteca_Core.AssemblyInfoInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Biblioteca_Core\obj\Debug\netstandard2.0\ClassLibrary_Biblioteca_Core.AssemblyInfo.cs
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Biblioteca_Core\obj\Debug\netstandard2.0\ClassLibrary_Biblioteca_Core.csproj.CoreCompileInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Biblioteca_Core\obj\Debug\netstandard2.0\ClassLibrary_Biblioteca_Core.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ClassLibrary_Biblioteca_Core\obj\Debug\netstandard2.0\ClassLibrary_Biblioteca_Core.pdb

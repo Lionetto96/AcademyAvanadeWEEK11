@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJ1LRcfY0P8Mo7hqmS6W5B4UrzyEHxk1JtLUFv+nRvH7OulkNgrnCgNrWZlZVn+fyAZepiuGSWjlUE0gbCycDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alessia.lionetto\\source\\repos\\Week11\\Academy_Week11\\ClassLibrary_Biblioteca_Mock\\ClassLibrary_Biblioteca_Mock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\ninject\\3.3.4\\ninject.3.3.4.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\alessia.lionetto\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

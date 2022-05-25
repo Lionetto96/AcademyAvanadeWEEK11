@@ -1,0 +1,14 @@
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\bin\Debug\netcoreapp3.1\ConsoleApp_Day1.exe
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\bin\Debug\netcoreapp3.1\ConsoleApp_Day1.deps.json
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\bin\Debug\netcoreapp3.1\ConsoleApp_Day1.runtimeconfig.json
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\bin\Debug\netcoreapp3.1\ConsoleApp_Day1.runtimeconfig.dev.json
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\bin\Debug\netcoreapp3.1\ConsoleApp_Day1.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\bin\Debug\netcoreapp3.1\ConsoleApp_Day1.pdb
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\obj\Debug\netcoreapp3.1\ConsoleApp_Day1.csproj.AssemblyReference.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\obj\Debug\netcoreapp3.1\ConsoleApp_Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\obj\Debug\netcoreapp3.1\ConsoleApp_Day1.AssemblyInfoInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\obj\Debug\netcoreapp3.1\ConsoleApp_Day1.AssemblyInfo.cs
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\obj\Debug\netcoreapp3.1\ConsoleApp_Day1.csproj.CoreCompileInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\obj\Debug\netcoreapp3.1\ConsoleApp_Day1.dll
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\obj\Debug\netcoreapp3.1\ConsoleApp_Day1.pdb
+C:\Users\alessia.lionetto\source\repos\Week11\Academy_Week11\ConsoleApp_Day1\obj\Debug\netcoreapp3.1\ConsoleApp_Day1.genruntimeconfig.cache
